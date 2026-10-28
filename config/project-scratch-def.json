@@ -1,0 +1,12 @@
+{
+  "orgName": "NorthStar ClaimsConnect - Dev",
+  "edition": "Developer",
+  "description": "ClaimsConnect development scratch org",
+  "hasSampleData": false,
+  "language": "en_US",
+  "features": ["Communities"],
+  "settings": {
+    "lightningExperienceSettings": { "enableS1DesktopEnabled": true },
+    "communitiesSettings": { "enableNetworks": true }
+  }
+}
