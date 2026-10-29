@@ -17,3 +17,5 @@ Salesforce claims management platform. Built as a solo end-to-end project.
 See `docs/decisions/ADR-001-environments.md`.
 
 Workflow tested
+## Decisions
+- **Policyholder model:** Person Accounts (individuals) + Business Accounts (small businesses). Chosen because ~95% of policyholders are individuals and a portal is planned later. Trade-off: cannot be disabled once enabled. Risk: enabling in UAT/Prod DE orgs must be verified before Sprint 9.

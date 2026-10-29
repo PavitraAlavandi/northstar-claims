@@ -4,7 +4,7 @@
   "description": "ClaimsConnect development scratch org",
   "hasSampleData": false,
   "language": "en_US",
-  "features": ["Communities"],
+  "features": ["Communities", "PersonAccounts"],
   "settings": {
     "lightningExperienceSettings": { "enableS1DesktopEnabled": true },
     "communitiesSettings": { "enableNetworks": true }
