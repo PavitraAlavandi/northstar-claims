@@ -15,3 +15,5 @@ Salesforce claims management platform. Built as a solo end-to-end project.
 
 ## Environments
 See `docs/decisions/ADR-001-environments.md`.
+
+Workflow tested
